@@ -42,4 +42,4 @@ console.log (meses.slice(meses.indexOf ('Mayo'), meses.indexOf ('Noviembre') + 1
 /*Sabiendo las posiciones: 
 console.log (meses.slice(4,11)); */
 
-console.log (' ');
+console.log ('');

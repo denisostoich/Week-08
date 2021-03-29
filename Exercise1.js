@@ -25,4 +25,4 @@ var cadena4 = 'Gimenez';
 sumaCadenas = cadena3.length + cadena4.length;
 console.log(sumaCadenas);
 
-console.log (' ');
+console.log ('');

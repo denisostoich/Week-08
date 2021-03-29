@@ -40,4 +40,4 @@ if (age <= 2){
     alert (age + 'Anciano');
 }
 
-console.log (' ');
+console.log ('');

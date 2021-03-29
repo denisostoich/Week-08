@@ -55,4 +55,4 @@ var minusculas2 = cadena6.substring(cadena6.indexOf (' ') + 2,cadena6.length);
 console.log (primeraMayuscula.toUpperCase() + minusculas1.toLowerCase() + ' ' + segundaMayuscula.toUpperCase() + 
 minusculas2.toLowerCase());
 
-console.log (' ');
+console.log ('');
