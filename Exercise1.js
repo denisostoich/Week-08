@@ -1,4 +1,5 @@
 //Exercise 1 - Variables y Operadores
+console.log ('Resultados Ejercicio 1');
 
 /* a) Crear dos variables numéricas y utilizar el operador suma para guardar 
 el valor de la suma de ambos números en una 3er variable. */
@@ -23,3 +24,5 @@ var cadena3 = 'Susana';
 var cadena4 = 'Gimenez';
 sumaCadenas = cadena3.length + cadena4.length;
 console.log(sumaCadenas);
+
+console.log (' ');

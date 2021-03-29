@@ -1,4 +1,5 @@
 //Exercise 2 - Strings
+console.log ('Resultados Ejercicio 2');
 
 /* a) Crear una variable de tipo string con al menos 10 caracteres y 
 convertir todo el texto en mayúscula (utilizar toUpperCase). */
@@ -53,3 +54,5 @@ var segundaMayuscula = cadena6.substring(cadena6.indexOf (' ') + 1,cadena6.index
 var minusculas2 = cadena6.substring(cadena6.indexOf (' ') + 2,cadena6.length);
 console.log (primeraMayuscula.toUpperCase() + minusculas1.toLowerCase() + ' ' + segundaMayuscula.toUpperCase() + 
 minusculas2.toLowerCase());
+
+console.log (' ');
