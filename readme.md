@@ -1,6 +1,6 @@
-# Readme Weekly Problem 08 - JavaScript
+# Readme Weekly Problem 09 - Functions & DOM
 
-This is the README file used in the problems of the "Become a QA" course.
+This is the README file used in the problems of the "Become a QA Automation" course.
 
 JavaScript exercises.
 
